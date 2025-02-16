@@ -212,6 +212,7 @@ mRo
 mAZ
 mqn
 mjU
+mode
 caps
 com
 csrutil
@@ -408,6 +409,11 @@ cMQ
 cPj
 caR
 cMA
+commit
+commands
+completr
+conflicted
+conflicts
 lock
 left
 layer
@@ -587,6 +593,8 @@ lpN
 lle
 lYq
 lMX
+list
+listed
 iPhone
 item
 in
@@ -957,6 +965,9 @@ aaG
 aISV
 azQ
 acX
+automatically
+available
+above
 SIP
 Successfully
 System
@@ -1121,6 +1132,7 @@ SJn
 Sav
 SRv
 SDN
+Source
 ABC
 Apple
 Assignment
@@ -1288,6 +1300,7 @@ AGE
 AcA
 AMuc
 Aav
+Additional
 KeyboardHolder
 Karabiner
 KeyboardLayout
@@ -1653,6 +1666,7 @@ uQA
 ukV
 uOn
 uKs
+using
 shift
 store
 sudo
@@ -1863,6 +1877,9 @@ saV
 srs
 sfN
 sxI
+scanned
+strongly
+simple
 Elements
 Error
 Edge
@@ -2194,6 +2211,10 @@ fLSs
 fnz
 fHOW
 fas
+followed
+file
+files
+following
 device
 disable
 disabled
@@ -2373,6 +2394,8 @@ doG
 djE
 dRm
 dqF
+deleted
+desired
 Modifier
 Mac
 MacOS
@@ -3357,6 +3380,7 @@ IYc
 ILu
 IPRAN
 IPSec
+Instructions
 restart
 rules
 resides
@@ -3546,6 +3570,9 @@ rRKQ
 rei
 rAi
 rvF
+resolve
+recommend
+replace
 the
 to
 take
@@ -3738,6 +3765,9 @@ tOP
 tvh
 taw
 tyutyu
+them
+txt
+text
 effect
 exhibits
 ew
@@ -3901,6 +3931,8 @@ emvo
 eno
 emM
 euj
+each
+every
 plist
 patterns
 pattern
@@ -4069,6 +4101,7 @@ pLQ
 pÜ
 pMx
 pMN
+plugins
 Xcode
 XSW
 XxNo
@@ -4461,6 +4494,8 @@ oRr
 oli
 oxO
 okY
+obsidian
+occurrence
 Library
 Lab
 Li
@@ -4767,6 +4802,7 @@ NVM
 NtQp
 NXc
 Netconf
+Not
 CC
 Controller
 Chrome
@@ -4957,6 +4993,7 @@ CLOS
 Comware
 CPU
 CGN
+Conflicts
 Design
 DNS
 DN
@@ -5238,6 +5275,7 @@ Toa
 Tqm
 Txc
 Tarp
+This
 View
 VU
 VYV
@@ -5756,6 +5794,9 @@ byf
 bnV
 bmg
 baM
+before
+below
+blocks
 game
 github
 git
@@ -6106,6 +6147,9 @@ wIG
 wuU
 wrOUz
 wXY
+will
+words
+with
 view
 vW
 vM
@@ -6279,6 +6323,7 @@ vhLh
 vLG
 vTX
 vvL
+viewing
 GUI
 Game
 Git
@@ -6624,6 +6669,7 @@ FuN
 FAm
 FxW
 FlexE
+For
 histories
 how
 hP
