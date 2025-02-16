@@ -3947,7 +3947,6 @@ each
 every
 epoll
 error
-erf
 plist
 patterns
 pattern
