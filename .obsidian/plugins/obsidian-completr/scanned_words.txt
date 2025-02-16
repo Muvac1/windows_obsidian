@@ -791,6 +791,7 @@ iak
 iyo
 ier
 iTC
+iFIT
 abc
 all
 apple
@@ -1118,6 +1119,8 @@ SbB
 Sß
 SJn
 Sav
+SRv
+SDN
 ABC
 Apple
 Assignment
@@ -2536,6 +2539,7 @@ MTl
 MNJ
 Mxk
 MeGY
+MSE
 keys
 keystrokes
 kL
@@ -2885,6 +2889,7 @@ BZS
 BvP
 BYe
 BMx
+BRAS
 HIToolbox
 HTTP
 HTTPS
@@ -3350,6 +3355,8 @@ Itl
 IaX
 IYc
 ILu
+IPRAN
+IPSec
 restart
 rules
 resides
@@ -3730,6 +3737,7 @@ total
 tOP
 tvh
 taw
+tyutyu
 effect
 exhibits
 ew
@@ -4758,6 +4766,7 @@ NOI
 NVM
 NtQp
 NXc
+Netconf
 CC
 Controller
 Chrome
@@ -4944,6 +4953,10 @@ Czy
 CIg
 Cso
 CZsa
+CLOS
+Comware
+CPU
+CGN
 Design
 DNS
 DN
@@ -5396,6 +5409,7 @@ VDw
 ViUHdYy
 VXq
 VXxZ
+VPN
 Observer
 Our
 OW
@@ -6609,6 +6623,7 @@ FxGL
 FuN
 FAm
 FxW
+FlexE
 histories
 how
 hP
@@ -7996,6 +8011,7 @@ WUq
 WOz
 WNJ
 Wdr
+WAN
 xv
 xH
 xS
