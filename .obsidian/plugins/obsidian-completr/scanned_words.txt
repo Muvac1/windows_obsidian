@@ -1137,6 +1137,9 @@ SRv
 SDN
 Source
 Sunday
+Steam
+SYSTEM
+Session
 ABC
 Apple
 Assignment
@@ -1305,6 +1308,7 @@ AcA
 AMuc
 Aav
 Additional
+AwayModeEnabled
 KeyboardHolder
 Karabiner
 KeyboardLayout
@@ -2039,6 +2043,7 @@ EfRd
 EYB
 EVX
 EZF
+Engine
 for
 fatal
 find
@@ -2570,6 +2575,8 @@ MNJ
 Mxk
 MeGY
 MSE
+MACHINE
+Manager
 keys
 keystrokes
 kL
@@ -3074,6 +3081,7 @@ HiI
 HHSe
 HZc
 HZyz
+HKEY
 Plist
 Protection
 Please
@@ -3240,6 +3248,7 @@ PzG
 PYF
 Protobuf
 Pack
+Power
 Item
 Integrity
 In
@@ -3584,6 +3593,7 @@ resolve
 recommend
 replace
 room
+regedit
 the
 to
 take
@@ -4657,6 +4667,7 @@ LCk
 LYi
 LQX
 LIK
+LOCAL
 Name
 Need
 Nh
@@ -5009,6 +5020,8 @@ Comware
 CPU
 CGN
 Conflicts
+CurrentControlSet
+Control
 Design
 DNS
 DN
@@ -8081,6 +8094,9 @@ WOz
 WNJ
 Wdr
 WAN
+Windows
+Wallpaper
+Win
 xv
 xH
 xS
