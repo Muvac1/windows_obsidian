@@ -3303,6 +3303,7 @@ HZyz
 HKEY
 HLOCK
 HLOCKpin
+Heading
 Plist
 Protection
 Please
@@ -4058,6 +4059,7 @@ tree
 trailing
 tile
 trailed
+tag
 effect
 exhibits
 ew

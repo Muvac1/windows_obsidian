@@ -54,3 +54,7 @@ list 构造函数
 2.  ```list(beg,end);``` //构造函数将[beg,end)区间中的元素拷贝给自身呢。
 3. list(n,elem); //构造函数将n个edlm拷贝给自身
 4. list(const list &lst); //拷贝构造函数 
+# C++ 关键字
+[C++的97个关键词概览(至20210216）_alignas specifier-CSDN博客](https://blog.csdn.net/Edidaughter/article/details/113828517)
+![[Pasted image 20250226232428.png]]
+[C++ 的关键字（保留字）完整介绍 | 菜鸟教程](https://www.runoob.com/w3cnote/cpp-keyword-intro.html)
