@@ -65,6 +65,7 @@
 	**sidestep** 回避避免
 	**sentinel** 哨兵；标记
 	**scramble** 竞争
+	**superficial** 肤浅的
 #T **tabulates** /ˈtabjʊleɪt/列表显示 
 	**transitive verb** 及物动词
 	**typesetting** 排版 / automatic typesetting 自动排版 vim `gg=G`

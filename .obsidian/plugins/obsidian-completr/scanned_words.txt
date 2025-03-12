@@ -4439,6 +4439,8 @@ pascal
 package
 println
 pop
+proximal
+policy
 Xcode
 XSW
 XxNo
