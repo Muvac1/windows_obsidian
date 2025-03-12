@@ -54,6 +54,8 @@
 #P **plagiarism** 抄袭
 	**Proficiency** 水平;能力 / English proficency 英语水平（用在评价一个地方的英语接受度)
 	**ponder** 思考 /optional pondering 可选思考 /动名词 ing
+	**proximal** 接近身体中央的，近（骨头或肌肉）端的
+	**policy** 策略，方针，政策
 #Q 
 #R
 #S **suppose** 假设
