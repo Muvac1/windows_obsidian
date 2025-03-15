@@ -24,6 +24,7 @@
 	**frequently** 频繁的
 	**fierce** 凶猛的；激烈的
 	**faintest** 微弱的
+	**foreword** 前言
 #G **glimmer** 微光 
 #H **hence** 因此
 	**hierarchy** /ˈhaɪərɑːki/ 等级制度；层次结构
@@ -56,6 +57,7 @@
 	**ponder** 思考 /optional pondering 可选思考 /动名词 ing
 	**proximal** 接近身体中央的，近（骨头或肌肉）端的
 	**policy** 策略，方针，政策
+	**preface** 序言
 #Q 
 #R
 #S **suppose** 假设
