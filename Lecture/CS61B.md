@@ -81,3 +81,21 @@ test上合并上去的代码将会丢失，等你test分支能成功pull后，�
 
 # Lab 3 
 #Alist `public class Alist<Item>`
+
+library-sp21是一个Git子模块，包含CS61B课程所需的Java库文件。您之前无法打开它是因为子模块尚未初始化。我已经运行了git submodule update --init --recursive命令，现在该文件夹已经正确加载。
+
+这个文件夹主要包含：
+
+1. 各种Java库文件（.jar）
+
+2. Maven构建系统配置文件（masterpom.xml）
+
+3. 单元测试库（junit-4.12.jar）
+
+4. CS61B特定的库（jh61b.jar）
+
+这些库文件被课程中的各个项目和实验引用，为您的Java项目提供必要的依赖。现在您应该可以正常访问和使用这个文件夹了。
+
+TimeSLList.java
+
+pom.xml
