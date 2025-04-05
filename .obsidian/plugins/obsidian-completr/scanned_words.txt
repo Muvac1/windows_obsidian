@@ -1775,6 +1775,7 @@ Agb
 AIO
 AXT
 ADQ
+Analogical
 KeyboardHolder
 Karabiner
 KeyboardLayout
@@ -6155,6 +6156,9 @@ LPb
 Lnf
 LgGH
 LByn
+LLMs
+Limitations
+LLM
 Name
 Need
 Nh
@@ -7458,6 +7462,7 @@ OYM
 OtC
 OWjOQ
 OgOG
+Oracle
 board
 by
 be
@@ -11027,6 +11032,8 @@ RmT
 RIg
 RcK
 Riz
+Resoning
+Reasoners
 Yi
 YGy
 YK

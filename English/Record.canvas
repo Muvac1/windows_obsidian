@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"59012c190d17c972","type":"file","file":"Trail.md","x":57,"y":184,"width":400,"height":400},
+		{"id":"59012c190d17c972","type":"file","file":"English/Trail.md","x":57,"y":184,"width":400,"height":400},
 		{"id":"7d11ceaec00bbfe9","type":"text","text":"literate | BrE ˈlɪt(ə)rət, AmE ˈlɪdərət | adjective ① (able to read and write) 有读写能力的 yǒu dúxiě nénglì de▸ he is barely literate他几乎不识字② (cultured) 有文化修养的 yǒu wénhuà xiūyǎng de ‹person›; 显示出文化修养的 xiǎnshì chū wénhuà xiūyǎng de ‹style, prose, vocabulary›③ (knowledgeable) 精通的 jīngtōng de▸ to be literate in sth; 精通某事▸ an emotionally literate person 通达人情世故的人","x":57,"y":620,"width":325,"height":406},
 		{"id":"41a57fe28742e0ab","type":"text","text":"# iterate 迭代/recursion 递归\n\n-\n递归中一定有迭代，但迭代中不一定有递归，大部分可以相互转换\n- 递归时不断调用自身，假设递归自己是一个函数的话，那递归的返回值会当作参数再次传入自身。迭代是将某一个初值设定，不断放入某一个循环体，得到的值成为一个新值再次放入循环体中，通过循环体中的操作，逐步得到我们想要的结果，总结就是：**程序调用自身成为递归，利用变量的原址推出新值称为迭代。**\n- **递归是自己调用自己，迭代是自己调用别人。**\n\n","x":-1360,"y":846,"width":630,"height":360},
 		{"id":"7e76e78455dfee69","type":"text","text":"计算机相关","x":-420,"y":996,"width":250,"height":60},
