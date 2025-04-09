@@ -1,5 +1,0 @@
-关于Apple 将于 2026 年推出的 A20 芯片的传言不绝于耳。 [iPhone 18](http://www.notebookcheck.net/Google-Pixel-11-and-Pixel-11-Pro-could-beat-Apple-iPhone-18-Pro-to-under-display-face-unlock-technology.909810.0.html)的传闻。 [英特尔代工厂](http://www.notebookcheck.net/iPhone-18-series-Rumor-claims-2026-bound-A20-Pro-chipset-could-be-built-by-Intel.921901.0.html)可以制造这种芯片。不过，鉴于Apple 与台积电的深厚关系，它不太可能在这么短的时间内改用 18A。[9to5Mac](https://www.macrumors.com/2025/03/17/a20-chip-still-3nm-rumor/) 现在有了关于 A20 的新信息，可能会让一些Apple 的铁杆粉丝失望。
-
-与 [早些时候的报道](http://www.notebookcheck.net/Intel-AMD-Apple-Nvidia-and-MediaTek-tipped-to-use-TSMC-s-cutting-edge-2-nm-node-Qualcomm-notably-absent.924561.0.html)Apple A20 将在台积电最先进的 N2 节点上制造，但它将坚持使用 N3P，即今年晚些时候推出的 A19 所使用的相同节点。不过，A20 将采用台积电梦寐以求的 CoWoS（Chip on Wafer on Substrate）封装，以区别于前代产品。
-
-[台积电的路线图](https://www.tsmc.com/english/dedicatedFoundry/technology/logic/l_2nm)称，其 2 纳米节点将于 2025 年下半年的某个时候进入量产，为 iPhone 18 生产Apple A20。即使是 [Apple M5](http://www.notebookcheck.net/Apple-M5-enters-mass-production-on-TSMC-s-N3P-node.956941.0.html)也将坚持使用 N3P，这可能是由于晶圆成本的增加。毕竟，N2 是台积电首个使用纳米片（全
