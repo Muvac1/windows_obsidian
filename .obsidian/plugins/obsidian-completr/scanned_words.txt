@@ -2976,6 +2976,7 @@ Several
 Scheme
 Sussman
 Style
+SPAC
 ABC
 Apple
 Assignment
@@ -7808,6 +7809,7 @@ How
 Harter
 Hayes
 Herbert
+HMI
 Plist
 Protection
 Please
@@ -11934,6 +11936,7 @@ Lisp
 Lawrence
 Lave
 Language
+LTS
 Name
 Need
 Nh
@@ -12880,6 +12883,7 @@ Clearly
 Capey
 Customers
 Cohen
+CEO
 Design
 DNS
 DN
@@ -14451,6 +14455,7 @@ Oep
 Ojn
 Oegw
 Other
+OpenHarmony
 board
 by
 be
@@ -22156,6 +22161,7 @@ Unfortunately
 Understand
 University
 Use
+Unity
 qm
 qz
 qh
