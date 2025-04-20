@@ -1,4 +1,4 @@
-  Mac在使用obsidian 同步仓库时，未使用SSH进行连接 ，导致了IOS上不能进行SSH同步
+ gege  Mac在使用obsidian 同步仓库时，未使用SSH进行连接 ，导致了IOS上不能进行SSH同步
 ### kex_exchange_identification 报错
 1. 临时关闭代理
 2. 修改代理软件配置，22端口走直连 -
