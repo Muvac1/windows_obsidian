@@ -2977,6 +2977,7 @@ Scheme
 Sussman
 Style
 SPAC
+Self
 ABC
 Apple
 Assignment
@@ -3416,6 +3417,7 @@ Appendix
 Also
 Another
 Abelson
+Add
 KeyboardHolder
 Karabiner
 KeyboardLayout
@@ -3847,6 +3849,7 @@ KuD
 Kmm
 Know
 Keep
+Keys
 utools
 use
 user
@@ -4910,6 +4913,7 @@ seen
 successor
 serves
 shopped
+softmax
 Elements
 Error
 Edge
@@ -6611,6 +6615,10 @@ Make
 Months
 Michelangelo
 Mutex
+Multi
+MHLA
+MHSA
+MHA
 keys
 keystrokes
 kL
@@ -7810,6 +7818,7 @@ Harter
 Hayes
 Herbert
 HMI
+Head
 Plist
 Protection
 Please
@@ -8185,6 +8194,8 @@ PHP
 Psychology
 Press
 Play
+Perceiver
+Position
 Item
 Integrity
 In
@@ -8608,6 +8619,7 @@ Include
 Instead
 IEEE
 Insist
+Input
 restart
 rules
 resides
@@ -11937,6 +11949,8 @@ Lawrence
 Lave
 Language
 LTS
+Latent
+Latents
 Name
 Need
 Nh
@@ -12424,6 +12438,8 @@ NIL
 Niu
 Norvig
 Notes
+Norm
+Network
 CC
 Controller
 Chrome
@@ -12884,6 +12900,7 @@ Capey
 Customers
 Cohen
 CEO
+Cross
 Design
 DNS
 DN
@@ -13246,6 +13263,7 @@ DVf
 DbB
 Dictionary
 Does
+DeepMind
 The
 TPv
 To
@@ -13597,6 +13615,7 @@ True
 Talk
 Think
 Thanks
+Transformer
 View
 VU
 VYV
@@ -13982,6 +14001,7 @@ VcRkX
 Vdv
 VwE
 VMFY
+Values
 Observer
 Our
 OW
@@ -14840,6 +14860,7 @@ between
 batch
 beginners
 basis
+block
 game
 github
 git
@@ -15798,6 +15819,7 @@ whole
 weed
 wider
 widely
+wise
 view
 vW
 vM
@@ -17097,6 +17119,9 @@ Fym
 FzW
 Felleisen
 Fred
+FFN
+Feed
+Forward
 histories
 how
 hP
@@ -19028,6 +19053,7 @@ QEG
 Qas
 QTn
 QIs
+Queries
 nx
 nu
 nZm
