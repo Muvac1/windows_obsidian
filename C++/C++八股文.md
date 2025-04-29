@@ -192,6 +192,10 @@
 
 [93.函数调用进行的操作：](https://blog.csdn.net/songbijian/article/details/132507421#93.%E5%87%BD%E6%95%B0%E8%B0%83%E7%94%A8%E8%BF%9B%E8%A1%8C%E7%9A%84%E6%93%8D%E4%BD%9C%EF%BC%9A)
 
+94 emplace 和 insert 的区别 
+当调用insert时，我们将**元素类型的对象**传递给insert，元素的对象被**拷贝**到容器中，而当我们使用emplace时，我们将参数传递元素类型的**构造函**，emplace使用这些参数在容器管理的内存空间中直接构造元素。
+****Note**  
+emplace函数在容器中直接构造元素，传递给emplace函数的参数必须与元素类型的构造函数相匹配。**
 <a id="esection">### 1.讲一讲封装、继承、多态是什么？</a>
 ### 1.讲一讲封装、继承、多态是什么？
 
