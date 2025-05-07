@@ -1075,6 +1075,7 @@ choices
 choose
 covering
 coming
+chp
 lock
 left
 layer
@@ -1533,6 +1534,7 @@ life
 learners
 look
 lFI
+latest
 iPhone
 item
 in
@@ -2058,6 +2060,8 @@ interactive
 introduction
 ideas
 items
+insert
+index
 abc
 all
 apple
@@ -4919,6 +4923,7 @@ serves
 shopped
 softmax
 shantaqlance
+sicp
 Elements
 Error
 Edge
@@ -6205,6 +6210,9 @@ difference
 dying
 designed
 digit
+date
+datetime
+document
 Modifier
 Mac
 MacOS
@@ -6625,6 +6633,7 @@ Multi
 MHLA
 MHSA
 MHA
+May
 keys
 keystrokes
 kL
@@ -12454,6 +12463,7 @@ Norvig
 Notes
 Norm
 Network
+Note
 CC
 Controller
 Chrome
@@ -13283,6 +13293,7 @@ Dictionary
 Does
 DeepMind
 Delivery
+Downloads
 The
 TPv
 To
@@ -17573,6 +17584,7 @@ half
 habits
 hear
 help
+html
 zero
 zM
 zgx
@@ -21806,6 +21818,7 @@ Yourself
 You
 Years
 Your
+YYYY
 Ux
 UP
 UJ
