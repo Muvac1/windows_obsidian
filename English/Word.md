@@ -37,7 +37,8 @@
 	**implementation** 实现
 	**idotsyncratic** 独特的； 怪癖的
 	**identical** 极为相似的
-	
+	**interlude** 插曲
+	****
 	
 #J
 #K 
@@ -49,6 +50,7 @@
 	**messy** 杂乱的
 	**manual** /ˈmanjʊəl/ 使用手册；手动的
 	**mania** meɪnɪə 狂热；燥热
+	
 #N
 #O **orchestrate** 精心安排;编管弦乐曲;指挥 / orchestrate interaction 协调互动
 	**overlapping** 部份重叠 /overlap 现在分词
@@ -58,6 +60,8 @@
 	**proximal** 接近身体中央的，近（骨头或肌肉）端的
 	**policy** 策略，方针，政策
 	**preface** 序言
+	**periodically** 周期性地
+	**platitudes** n. 名词 陈词滥调，老生常谈
 #Q 
 #R
 #S **suppose** 假设
@@ -68,6 +72,7 @@
 	**sentinel** 哨兵；标记
 	**scramble** 竞争
 	**superficial** 肤浅的
+	**skoal** 干杯
 #T **tabulates** /ˈtabjʊleɪt/列表显示 
 	**transitive verb** 及物动词
 	**typesetting** 排版 / automatic typesetting 自动排版 vim `gg=G`

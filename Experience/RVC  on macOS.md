@@ -1,3 +1,4 @@
+
 0.1  ``` Auto-updating Homebrew...Adjust how often this is run with HOMEBREW_AUTO_UPDATE_SECS or disable with HOMEBREW_NO_AUTO_UPDATE. Hide these hints with HOMEBREW_NO_ENV_HINTS (see man brew).```
 Homebrew 在每次运行时自动更新其库和公式的通知，它并不会影响你安装或使用软件的实际功能。如果你觉得每次使用 Homebrew 时都需要等待更新，可以选择禁用这个自动更新功能，以加快使用速度。
 解决方案：
