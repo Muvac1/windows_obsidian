@@ -17,5 +17,14 @@
       ],
       "key": "1"
     }
+  ],
+  "editor:save-file": [],
+  "templater-obsidian:templaterhotkey/templaterhotkey.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "F"
+    }
   ]
 }

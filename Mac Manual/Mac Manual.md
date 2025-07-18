@@ -4,3 +4,5 @@
 #在终端使用命令重置聚焦搜索
 #Mac系统】解决gitclone速度慢-阿里云开发者社区](https://developer.aliyun.com/article/1576025)
 #
+
+$$\dfrac{3}{4}$$ 
