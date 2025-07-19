@@ -3,7 +3,7 @@
 >作为随机调用 `AList` 方法的函数示例，下面的代码在 `AListNoResizing` 对象上随机调用 `addLast` 和 `size`，总共调用了 N 个函数。
 **for a total of N** 总共进行了N次 **total calls** 呼应前面的“a total of " ，进一步明确“调用的总次数”
 
-#B
+#B  
 #C
 #D
 #E Everyone is now talking about AI, but few have the **faintest glimmer** of what is about to hit them.
