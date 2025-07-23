@@ -29,10 +29,10 @@
   "syntax_highlighting": true,
   "syntax_highlighting_mobile": false,
   "enabled_templates_hotkeys": [
-    "templaterhotkey/templaterhotkey.md",
-    ""
+    "templaterhotkey/templaterhotkey.md"
   ],
   "startup_templates": [
     ""
-  ]
+  ],
+  "intellisense_render": 1
 }

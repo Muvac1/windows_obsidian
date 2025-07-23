@@ -1,1 +1,0 @@
-$$ \operatorname{sh}k, \operatorname{ch}l, \operatorname{th}m, \operatorname{coth}n $$

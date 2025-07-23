@@ -26,5 +26,13 @@
       ],
       "key": "F"
     }
+  ],
+  "editor:toggle-source": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "Escape"
+    }
   ]
 }
