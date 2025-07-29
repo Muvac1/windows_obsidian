@@ -9,7 +9,7 @@
   "ignoreDiacriticsWhenFiltering": false,
   "latexProviderEnabled": true,
   "latexTriggerInCodeBlocks": true,
-  "latexMinWordTriggerLength": 1,
+  "latexMinWordTriggerLength": 2,
   "latexIgnoreCase": false,
   "fileScannerProviderEnabled": true,
   "fileScannerScanCurrent": true,

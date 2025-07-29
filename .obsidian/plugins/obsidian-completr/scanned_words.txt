@@ -7942,6 +7942,7 @@ cHJyJnPedZJ
 cziU
 cTmROeE
 cji
+cases
 lock
 left
 layer
@@ -19416,6 +19417,7 @@ azuqO
 aXmxevV
 axcrNCtRK
 aeoF
+alpha
 SIP
 Successfully
 System
@@ -23182,6 +23184,7 @@ SsRLDEtTS
 SbmtuxG
 SnkCerp
 SwdNE
+Same
 ABC
 Apple
 Assignment
@@ -26790,6 +26793,7 @@ AYoBkQGgAawBugHFAcwB
 ArkCuwK
 AXwBgMGCgYXBiQGKgY
 AAAAAAAAAAAAAAAAAABSZ
+Axis
 KeyboardHolder
 Karabiner
 KeyboardLayout
@@ -38302,6 +38306,7 @@ soizXLQwtQS
 sjrvOy
 sOqxYLHWskuywrM
 sDrQO
+sqrt
 Elements
 Error
 Edge
@@ -41800,6 +41805,8 @@ EsBSw
 Evxy
 EzVNNYc
 EfgSDBIsFqwWtBbIFwAXEBcsF
+Equation
+Equivalent
 for
 fatal
 find
@@ -45524,6 +45531,7 @@ fpaD
 fHadtr
 fFy
 fEBFBS
+frac
 device
 disable
 disabled
@@ -64240,6 +64248,7 @@ HTwdhB
 HKMczBz
 HJLcqZzAXNdc
 HNgjCCkoL
+Higher
 Plist
 Protection
 Please
@@ -67817,6 +67826,8 @@ PEBESExQVFhcYGRobHB
 PrZEBklGTpZT
 Pnabdvh
 PzlhOYN
+Polar
+Pole
 Item
 Integrity
 In
@@ -71707,6 +71718,7 @@ IiciVSKCIq
 IbWBtuW
 IxjjMqNMY
 IPci
+Infinitesimal
 restart
 rules
 resides
@@ -75553,6 +75565,7 @@ rPyR
 rHgC
 rReX
 rTvQO
+right
 the
 to
 take
@@ -79581,6 +79594,7 @@ tLWz
 tsbXV
 tHwEgFSEtIkUjXSR
 tjXXNfg
+theta
 effect
 exhibits
 ew
@@ -98388,6 +98402,7 @@ Ldot
 LrunvCG
 Lbw
 LrRPNG
+Lower
 Name
 Need
 Nh
@@ -106051,6 +106066,7 @@ CYTJi
 ClAKVApYCmAKZApsCpAKmAqgCqgKrAq
 CrwK
 CwQLCAsMCxALGAsgCygLMAs
+Coordinate
 Design
 DNS
 DN
@@ -120658,6 +120674,7 @@ OrqgZEAECEQwCABkQBAAAAAQAAAABAhUMAQAZEgBHSRkdqa
 ODgzNTcgMC
 OjzaPnpAGkG
 OPnH
+Order
 board
 by
 be
@@ -124304,6 +124321,8 @@ bnjMeSp
 bUSdTL
 bTlNUZXh
 bGXUubq
+begin
+beta
 game
 github
 git
