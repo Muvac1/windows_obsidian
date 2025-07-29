@@ -23185,6 +23185,7 @@ SbmtuxG
 SnkCerp
 SwdNE
 Same
+Sine
 ABC
 Apple
 Assignment
@@ -26794,6 +26795,8 @@ ArkCuwK
 AXwBgMGCgYXBiQGKgY
 AAAAAAAAAAAAAAAAAABSZ
 Axis
+Angle
+Auxiliary
 KeyboardHolder
 Karabiner
 KeyboardLayout
@@ -64249,6 +64252,8 @@ HKMczBz
 HJLcqZzAXNdc
 HNgjCCkoL
 Higher
+Hierarchy
+Half
 Plist
 Protection
 Please
@@ -67828,6 +67833,7 @@ Pnabdvh
 PzlhOYN
 Polar
 Pole
+Product
 Item
 Integrity
 In
@@ -71719,6 +71725,7 @@ IbWBtuW
 IxjjMqNMY
 IPci
 Infinitesimal
+Infinite
 restart
 rules
 resides
@@ -106067,6 +106074,7 @@ ClAKVApYCmAKZApsCpAKmAqgCqgKrAq
 CrwK
 CwQLCAsMCxALGAsgCygLMAs
 Coordinate
+Cosine
 Design
 DNS
 DN
@@ -113085,6 +113093,7 @@ TTmFtZSNALgAAAAAAABAQgCSAJVlIZWx
 TCRMOExsTHhMrEzATOBM
 TixONE
 TkROWE
+Tangent
 View
 VU
 VYV
@@ -139674,6 +139683,7 @@ GaWVsZEtleVYkY
 GrwbABtEG
 GBsYQBhlGIoYrxjVGPoZIBlFGWsZkRm
 GIkZnRqtG
+Growth
 Failed
 FK
 FNJ
@@ -143421,6 +143431,8 @@ FHRwdMx
 FsaWdubWVudF
 Fycm
 FEgUThRiFHYUjAAAAAAAAAIBAAAAAAAAAM
+Formulas
+Formula
 histories
 how
 hP
@@ -181341,6 +181353,7 @@ Rlc
 RjBGqEckR
 RDdlt
 RHtnO
+Rates
 Yi
 YGy
 YK
