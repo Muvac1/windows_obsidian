@@ -1,5 +1,6 @@
 {
   "cssTheme": "",
   "baseFontSizeAction": true,
-  "baseFontSize": 19
+  "baseFontSize": 19,
+  "translucency": false
 }

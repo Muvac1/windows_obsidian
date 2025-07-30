@@ -10,13 +10,13 @@
   "collapse-display": false,
   "showArrow": true,
   "textFadeMultiplier": -3,
-  "nodeSizeMultiplier": 1.66873372395833,
-  "lineSizeMultiplier": 5,
+  "nodeSizeMultiplier": 1.36906474820144,
+  "lineSizeMultiplier": 1.77974820143885,
   "collapse-forces": false,
-  "centerStrength": 0.413899739583333,
-  "repelStrength": 10,
+  "centerStrength": 0.60513874614594,
+  "repelStrength": 15.934224049332,
   "linkStrength": 0.820149739583333,
   "linkDistance": 250,
-  "scale": 0.31109461054784576,
+  "scale": 0.41452150412838545,
   "close": true
 }
