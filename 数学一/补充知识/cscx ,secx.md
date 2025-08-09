@@ -1,0 +1,1 @@
+$\sec x =\frac{1}{\cos x}$ #正割函数secx $\csc x=\frac{1}{\sin x}$   #余割函数cscx
