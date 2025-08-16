@@ -3,5 +3,8 @@
   "strictLineBreaks": false,
   "autoPairMarkdown": true,
   "showLineNumber": false,
-  "readableLineLength": false
+  "readableLineLength": false,
+  "promptDelete": false,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "1数学一/补充知识"
 }
