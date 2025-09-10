@@ -1,0 +1,2 @@
+#TCP状态转换  
+三次握手和四次挥手是TCP状态机的一部分。可能会考到各个状态（如`CLOSED`, `LISTEN`, `SYN_SENT`, `SYN_RCVD`, `ESTABLISHED`, `FIN_WAIT_1`, `FIN_WAIT_2`, `TIME_WAIT`, `CLOSE_WAIT`, `LAST_ACK`）之间的转换条件。例如，`TIME_WAIT` 状态的作用是什么？（确保最后的ACK能到达对方，并让网络中残余的旧报文段都消失）。
