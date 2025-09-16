@@ -135,7 +135,7 @@ Host *
                         
 原文链接：https://blog.csdn.net/weixin_40498616/article/details/103309418
 
-# #在终端使用命令重置聚焦搜索
+  #在终端使用命令重置聚焦搜索Finder  
 1、关闭spotlight，输入命令：
 sudo mdutil -a -i off
 2、不加载控制聚焦参数的文件，输入命令：
