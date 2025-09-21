@@ -1,4 +1,4 @@
-#AOE网  (Activity On Edge Network) 是一种带权有向无环图，用于表示一个工程的流程。
+#AOE网  (Activity On Edge Network) 是一种 #带权有向无环图DAG  ，用于表示一个工程的流程。 
 *   **顶点（Vertex）**: 代表一个**事件（Event）**，表示某些活动的完成和另一些活动的开始。例如，图中的圆圈①、②等。
 *   **弧（Edge）**: 代表一个**活动（Activity）**，是工程中需要消耗时间的部分。例如，图中的箭头a, b, c等。
 *   **权（Weight）**: 弧上的权值代表该活动持续的**时间（Duration）**。
