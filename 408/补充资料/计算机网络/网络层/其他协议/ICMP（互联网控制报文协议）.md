@@ -1,4 +1,4 @@
-#ICMP互联网控制报文协议 (Internet Control Message Protocol，互联网控制报文协议) 是 IP 协议族的一个核心协议。它工作在网络层，用于在 IP 主机、路由器之间传递控制消息，报告错误或提供与网络状况相关的信息。ICMP 报文被封装在 IP 数据报中进行传输。
+#ICMP互联网控制报文协议 (Internet Control Message Protocol，互联网控制报文协议) 是 IP 协议族的一个核心协议。它工作在网络层，用于在 IP 主机、路由器之间传递控制消息，报告错误或提供与网络状况相关的信息。ICMP 报文被封装在 #IP数据报 中进行传输。
 
 ICMP 报文主要分为两大类：
 
