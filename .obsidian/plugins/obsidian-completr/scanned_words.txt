@@ -257727,6 +257727,7 @@ CYXta
 CwAC
 CwHw
 Ccji
+Contraction
 Faker
 Frequency
 Fi
@@ -281389,6 +281390,7 @@ tQEr
 tQSq
 twOd
 tRsW
+tangent
 name
 nE
 no
@@ -377126,6 +377128,7 @@ Latents
 LaYv
 LDryq
 Lpys
+Lipschitz
 Qa
 QxKK
 QE
