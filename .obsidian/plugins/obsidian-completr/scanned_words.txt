@@ -12315,6 +12315,7 @@ mCPi
 mÖMf
 mWVu
 mdQWwR
+mNNHyK
 caps
 com
 csrutil
@@ -68463,6 +68464,8 @@ SxTY
 StBWfH
 SPFA
 Significant
+Spooling
+SxdD
 ABC
 Apple
 Assignment
@@ -77995,6 +77998,7 @@ ApbBD
 AWQZ
 AVQZ
 ADGE
+Authoritative
 KeyboardHolder
 Karabiner
 KeyboardLayout
@@ -112551,6 +112555,7 @@ sWdH
 sYxl
 srLL
 srTL
+sDSK
 Elements
 Error
 Edge
@@ -133467,6 +133472,7 @@ fvud
 fWWg
 fLSd
 fkAD
+frames
 device
 disable
 disabled
@@ -155204,6 +155210,7 @@ MSkhk
 Mate
 Merging
 MjBc
+Multilayer
 keys
 keystrokes
 kL
@@ -177931,6 +177938,7 @@ BEIW
 Bottleneck
 BXhe
 Bank
+Balancer
 HIToolbox
 HTTP
 HTTPS
@@ -197058,6 +197066,9 @@ PGkqp
 PBII
 PVVfD
 PVeN
+Peterson
+PeBru
+PLWs
 Item
 Integrity
 In
@@ -209400,6 +209411,7 @@ IQVK
 IDATGCI
 IPkp
 Interpreter
+Iterative
 restart
 rules
 resides
@@ -226193,6 +226205,8 @@ DWtg
 DsmMy
 Dzxo
 DKmC
+Dekker
+Daemon
 Geometric
 Gp
 Gx
@@ -249712,6 +249726,8 @@ NcDe
 NzCW
 NTVV
 NDue
+Noise
+Nagle
 Cryin
 Chovy
 CDF
@@ -257786,6 +257802,7 @@ CiWI
 Compiler
 CQtD
 CXLn
+Cable
 Faker
 Frequency
 Fi
@@ -265482,6 +265499,8 @@ FUTShX
 FhllT
 Foreign
 FDLKj
+Firewall
+FnMG
 views
 vW
 vE
@@ -281456,6 +281475,7 @@ twOd
 tRsW
 tangent
 tuOM
+tKbo
 name
 nE
 no
@@ -329586,6 +329606,8 @@ RWwu
 Removable
 Rust
 Ruby
+Resident
+RTrz
 Ox
 OM
 Oj
@@ -353555,6 +353577,9 @@ eWhf
 eBxH
 eTQr
 eebhq
+epic
+eaTi
+eJKIr
 pi
 pK
 pN
@@ -361008,6 +361033,7 @@ pDOr
 prRA
 pVxM
 puPl
+pivotkey
 obj
 oA
 om
@@ -384901,6 +384927,8 @@ QyTc
 QdzX
 QlSO
 QNVZi
+QdBr
+QqWE
 xs
 xG
 xK
@@ -401439,6 +401467,7 @@ histories
 hLWr
 hbGYd
 hpfch
+hAFV
 Yl
 Yx
 Yo
@@ -418782,6 +418811,7 @@ jyjd
 jRMy
 jBc
 jduy
+jqiV
 qa
 qi
 qO

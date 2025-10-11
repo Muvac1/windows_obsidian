@@ -5,4 +5,5 @@ DNS (Domain Name System) 域名系统
     *   **根域 (Root Domain)**：位于最顶层，全球共有13个逻辑根服务器。
     *   **顶级域 (Top-Level Domain, TLD)**：如 `.com`, `.org`, `.net`, `.cn` 等。
     *   **二级域 (Second-Level Domain, SLD)**：如 `google.com`, `baidu.com`。
-    *   **子域 (Subdomain)**：如 `www.google.com` 中的 `www`。
+    *   **子域 (Subdomain)**：如 `www.google.com` 中的 `www`。 
+* [[DNS查询方式]]   [[DNS服务器层次结构]] 
