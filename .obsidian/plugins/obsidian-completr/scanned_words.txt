@@ -12321,6 +12321,9 @@ mQBf
 must
 major
 mnOq
+mWLv
+mWpw
+mlMn
 caps
 com
 csrutil
@@ -46966,6 +46969,7 @@ ipWb
 iIDATw
 inHV
 iGFJ
+innoDB
 abc
 all
 apple
@@ -68482,6 +68486,8 @@ SxdD
 ScreenshotP
 Screenshotv
 SxqC
+Superscalar
+SREJ
 ABC
 Apple
 Assignment
@@ -78016,6 +78022,8 @@ AVQZ
 ADGE
 Authoritative
 AXfbWXa
+AYGM
+AiBi
 KeyboardHolder
 Karabiner
 KeyboardLayout
@@ -88866,6 +88874,7 @@ Kirin
 KIjZR
 KuxT
 KWuB
+KbScnr
 utools
 use
 user
@@ -101148,6 +101157,7 @@ uSVp
 uIsjvk
 uJzsJ
 ueBA
+uVVNu
 shift
 store
 sudo
@@ -123634,6 +123644,7 @@ Entity
 Endianness
 EyXuQ
 EYmg
+ELyBL
 for
 fatal
 find
@@ -155243,6 +155254,9 @@ Multilayer
 MyFm
 Multilist
 MjBo
+Million
+MFLOPS
+MegaFLOPS
 keys
 keystrokes
 kL
@@ -197108,6 +197122,8 @@ PLWs
 PriW
 PtYz
 PfuCs
+PFLOPS
+PetaFLOPS
 Item
 Integrity
 In
@@ -209453,6 +209469,7 @@ Interpreter
 Iterative
 IepN
 IdtM
+IPCP
 restart
 rules
 resides
@@ -226249,6 +226266,7 @@ DKmC
 Dekker
 Daemon
 DsQX
+DJniKG
 Geometric
 Gp
 Gx
@@ -234299,6 +234317,9 @@ GNSM
 GQMd
 GyDtZy
 GOBF
+GPhw
+GFLOPS
+GigaFLOPS
 Uniform
 Uo
 UGVb
@@ -249780,6 +249801,7 @@ Nagle
 Ncxx
 NzOc
 NyZF
+NxIt
 Cryin
 Chovy
 CDF
@@ -257859,6 +257881,8 @@ CIYST
 CEzmU
 CfWH
 Ckhe
+CLOgja
+Clocks
 Faker
 Frequency
 Fi
@@ -281538,6 +281562,7 @@ tuOM
 tKbo
 tSt
 tyNy
+tRQrH
 name
 nE
 no
@@ -297798,6 +297823,7 @@ WUZY
 WsOB
 WzSk
 WtXMD
+WXir
 with
 wc
 wN
@@ -306442,6 +306468,7 @@ wDxl
 wZxs
 wLER
 waitTime
+wxzK
 Jamming
 Jam
 JFIF
@@ -314218,6 +314245,7 @@ JFki
 Jqvi
 Jordan
 JmboQ
+JtUp
 Time
 Token
 Tj
@@ -321687,6 +321715,10 @@ Tarjan
 Translator
 TBUR
 TKoJ
+Timsort
+TFLOPS
+TeraFLOPS
+Trailer
 RTS
 Request
 Ring
@@ -329677,6 +329709,9 @@ Ruby
 Resident
 RTrz
 RFqA
+RVYe
+Receive
+Reject
 Ox
 OM
 Oj
@@ -353655,6 +353690,7 @@ epic
 eaTi
 eJKIr
 ethe
+eLeh
 pi
 pK
 pN
@@ -377332,6 +377368,9 @@ Lyhy
 LBwM
 LWuu
 LLDuul
+LHMR
+Lppj
+Linpack
 Qa
 QxKK
 QE
@@ -385015,6 +385054,7 @@ QNVZi
 QdBr
 QqWE
 QSYZ
+Qkob
 xs
 xG
 xK
@@ -410184,6 +410224,8 @@ YDALx
 YFdf
 Yqef
 YdUT
+YeUnxHG
+YMky
 jk
 jz
 jf
@@ -418908,6 +418950,7 @@ jqiV
 jyAY
 jbnOY
 jogy
+jOAym
 qa
 qi
 qO
@@ -427100,6 +427143,7 @@ qpxd
 qBVM
 qNIcAGY
 qhEi
+qbLR
 zx
 zo
 zu
@@ -468763,6 +468807,7 @@ XDQF
 Xvtc
 XlPR
 XmHR
+XGaL
 VO
 Vk
 VA
@@ -476907,6 +476952,7 @@ Vewe
 VnXD
 VZRl
 Vectoring
+VVNu
 ör
 ös
 özf
@@ -477074,6 +477120,7 @@ Vectoring
 örX
 ökk
 ökX
+öoi
 üC
 üo
 üv
