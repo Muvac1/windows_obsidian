@@ -6,5 +6,6 @@
   "templater-obsidian",
   "quick-latex",
   "code-styler",
-  "mousewheel-image-zoom"
+  "mousewheel-image-zoom",
+  "dataview"
 ]
