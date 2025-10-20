@@ -34057,6 +34057,9 @@ lNFg
 lsiB
 lZJI
 lXrx
+lRfe
+lWOn
+lDhgm
 iPhone
 item
 in
@@ -68776,6 +68779,8 @@ SVKF
 Skellam
 SfKe
 Specificity
+Scalar
+Scoreboarding
 ABC
 Apple
 Assignment
@@ -78359,6 +78364,7 @@ AhjCp
 ArUq
 AeDFe
 Abstract
+Amdahl
 KeyboardHolder
 Karabiner
 KeyboardLayout
@@ -101578,6 +101584,8 @@ uTjH
 uKCN
 uRjN
 uZRm
+uXcF
+uaLvd
 shift
 store
 sudo
@@ -124151,6 +124159,7 @@ EITev
 Evee
 EZQK
 EJdP
+EDbr
 for
 fatal
 find
@@ -155884,6 +155893,7 @@ MVei
 MXHI
 MgRU
 McIw
+Major
 keys
 keystrokes
 kL
@@ -188301,6 +188311,7 @@ Hkai
 HsyU
 HfMS
 Hfn
+HemB
 Plist
 Protection
 Please
@@ -197935,6 +197946,7 @@ POvT
 PBOt
 PfSDO
 PZPr
+PPOD
 Item
 Integrity
 In
@@ -210321,6 +210333,7 @@ IRQR
 ITmj
 Iisbx
 Instance
+Issue
 restart
 rules
 resides
@@ -235301,6 +235314,7 @@ GqfV
 GGlE
 GPUg
 Generality
+GFiJ
 Uniform
 Uo
 UGVb
@@ -250874,6 +250888,7 @@ NIzN
 NJYc
 NKewo
 NpjM
+NdCdp
 Cryin
 Chovy
 CDF
@@ -259003,6 +259018,7 @@ CHmtg
 CLn
 CLyL
 CITf
+Coding
 Faker
 Frequency
 Fi
@@ -266744,6 +266760,7 @@ FXxF
 FgDIh
 FjAS
 FldSn
+Fvkm
 views
 vW
 vE
@@ -282793,6 +282810,7 @@ tTmz
 tPdK
 tCHg
 tHLP
+tsuJ
 name
 nE
 no
@@ -290823,6 +290841,7 @@ nrkz
 niAy
 nEafC
 nASO
+nygy
 WPL
 Weight
 WLAN
@@ -323153,6 +323172,7 @@ TGVoN
 TGuR
 TrdI
 Theta
+Tomasulo
 RTS
 Request
 Ring
@@ -339279,6 +339299,8 @@ OdEkS
 OIMR
 OAdT
 OycV
+ODNO
+OoOE
 begin
 bMCK
 bx
@@ -346826,6 +346848,7 @@ bkVH
 bkrW
 boldsymbol
 bbIN
+bHyG
 end
 ej
 eI
@@ -436965,6 +436988,7 @@ zHYM
 zPqw
 zqvf
 zhwi
+zEag
 yI
 yc
 ywk
@@ -479198,6 +479222,7 @@ VMkHc
 VNSLJ
 VEVb
 VUGG
+VDYdf
 ör
 ös
 özf
