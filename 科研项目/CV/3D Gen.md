@@ -1,0 +1,1 @@
+[SceneCraft: Layout-Guided 3D Scene Generation](https://orangesodahub.github.io/SceneCraft/)![[截屏2025-11-06 上午6.07.51.png]]
