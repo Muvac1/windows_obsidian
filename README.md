@@ -11,5 +11,9 @@
 	4. 把题目解析分解，提取重点 ，完善知识点 ，放入题库
 	- 参考prompt
 	   这些题目的答案怎么推出来的，请你基于这些题目说提及的知识点，详细介绍一下，并介绍可能衍生出的考点，你回答的数学公式用LaTeX表示，$...$格式的，不要有空格和‘’在$...$ 的附近
-
-![[截屏2025-11-07 上午10.30.29.png]]
+<p align="center">
+<img width="900" height="900" alt="image" src="https://github.com/user-attachments/assets/8b0fbbe4-a0cd-44b5-98d9-7dd046566e41" />
+	</p>
+<p align="center">
+<img width="900" height="900" alt="image" src="https://github.com/user-attachments/assets/99353881-e9f7-4da8-aea9-9944747c1312" />
+	</p>
