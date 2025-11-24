@@ -184045,6 +184045,7 @@ MAaG
 Medical
 MVSEC
 MumR
+Medium
 keys
 keystrokes
 kL
@@ -222231,6 +222232,7 @@ HvLv
 HLKWd
 HxZp
 Headstrong
+HDOJ
 Plist
 Protection
 Please
@@ -233583,6 +233585,7 @@ PIUQ
 Picoheart
 Prophesee
 PTih
+Polylog
 Item
 Integrity
 In
@@ -298418,6 +298421,7 @@ NzVc
 NSrR
 NpgD
 Neuromorphic
+NowCoder
 Cryin
 Chovy
 CDF
@@ -308381,6 +308385,8 @@ CtVwx
 Computing
 CVPR
 CMHX
+Codeforces
+Cases
 Faker
 Frequency
 Fi
@@ -318184,6 +318190,7 @@ FYvy
 Fortran
 FJZv
 FeCm
+Formatting
 views
 vW
 vE
@@ -358354,6 +358361,7 @@ WfeeU
 WxavL
 WSDa
 WCQb
+Wrong
 with
 wc
 wN
@@ -378747,6 +378755,7 @@ JKkKmw
 JlGF
 JeuI
 JmnX
+Judge
 Time
 Token
 Tj
@@ -408348,6 +408357,7 @@ OAjZ
 Oahq
 Oracle
 Ocean
+Online
 begin
 bMCK
 bx
@@ -457894,6 +457904,7 @@ LiLl
 Lonk
 Lemon
 Lark
+LeetCode
 Qa
 QxKK
 QE
