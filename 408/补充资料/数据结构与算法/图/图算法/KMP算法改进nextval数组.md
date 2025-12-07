@@ -12,9 +12,9 @@
 **为 `t = "abaabc"` 计算 `nextval` 数组:**
 *   `nextval[0] = -1`。
 *   `j=1, k=next[1]=0`。 `t[1]`('b') `!=` `t[0]`('a'). 所以 `nextval[1] = 0`。
-*   `j=2, k=next[2]=0`。 `t[2]`('a') `==` `t[0]`('a'). 所以 `nextval[2] = nextval[0] = -1`。
+*   `j=2, k=next[2]=0`。 `t[2]`('a') ==  `t[0]`('a'). 所以 `nextval[2] = nextval[0] = -1`。
 *   `j=3, k=next[3]=1`。 `t[3]`('a') `!=` `t[1]`('b'). 所以 `nextval[3] = 1`。
-*   `j=4, k=next[4]=1`。 `t[4]`('b') `==` `t[1]`('b'). 所以 `nextval[4] = nextval[1] = 0`。
+*   `j=4, k=next[4]=1`。 `t[4]`('b') ==  `t[1]`('b'). 所以 `nextval[4] = nextval[1] = 0`。
 *   `j=5, k=next[5]=2`。 `t[5]`('c') `!=` `t[2]`('a'). 所以 `nextval[5] = 2`。
 
 最终 `nextval` 数组为 `[-1, 0, -1, 1, 0, 2]`。
