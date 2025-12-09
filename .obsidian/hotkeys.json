@@ -34,5 +34,13 @@
       ],
       "key": "Escape"
     }
+  ],
+  "quickadd:choice:b5dae1d7-0804-4528-9ed7-ac3526176ac6": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Backspace"
+    }
   ]
 }
