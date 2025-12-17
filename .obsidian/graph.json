@@ -3,28 +3,20 @@
   "search": "",
   "showTags": false,
   "showAttachments": false,
-  "hideUnresolved": false,
+  "hideUnresolved": true,
   "showOrphans": false,
   "collapse-color-groups": false,
-  "colorGroups": [
-    {
-      "query": "path:408/补充资料/计算机网络/应用层/邮件系统  ",
-      "color": {
-        "a": 1,
-        "rgb": 14701138
-      }
-    }
-  ],
+  "colorGroups": [],
   "collapse-display": false,
   "showArrow": true,
   "textFadeMultiplier": -3,
   "nodeSizeMultiplier": 1.80690909090909,
   "lineSizeMultiplier": 1.65550291051848,
   "collapse-forces": false,
-  "centerStrength": 0.205417439703154,
-  "repelStrength": 7.10055658627087,
-  "linkStrength": 0.554508348794063,
+  "centerStrength": 0.0677083333333333,
+  "repelStrength": 4.89583333333333,
+  "linkStrength": 0.317708333333333,
   "linkDistance": 214,
-  "scale": 0.1817906611573374,
-  "close": true
+  "scale": 0.5359795996225929,
+  "close": false
 }

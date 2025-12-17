@@ -6,6 +6,12 @@
   "readableLineLength": false,
   "promptDelete": false,
   "newFileLocation": "folder",
-  "newFileFolderPath": "1数学一/补充知识",
-  "useMarkdownLinks": false
+  "newFileFolderPath": "408/补充资料",
+  "useMarkdownLinks": false,
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }
