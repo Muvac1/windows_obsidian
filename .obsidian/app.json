@@ -9,7 +9,7 @@
   "newFileFolderPath": "1数学一/补充知识",
   "useMarkdownLinks": false,
   "pdfExportSettings": {
-    "pageSize": "Letter",
+    "pageSize": "A4",
     "landscape": false,
     "margin": "0",
     "downscalePercent": 100
